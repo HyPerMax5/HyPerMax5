@@ -17,28 +17,32 @@
 
  </div>
  <hr/>
- <h2 align="center">⚒️ Languages, Frameworks and Tools I've worked with ⚒️</h2>
+ <h2 align="center">🧰 Languages, Frameworks and Tools I've worked with 🧰</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=godot,blender,linux,raspberrypi,docker,nginx,py,html" /><br>
     <br>
     <img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" />
-    <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white"
+    <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" />
 </div>
+<br>
+<hr>
+
 <div align="center">
  <h2>🀄 My Contributions 🀄</h2>
- <br>
+
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HyPerMax5/HyPerMax5/output/github-contribution-grid-snake.svg" />
  
- <br/><br/><br/>
+ <br/>
+
 </div>
 <br/>
 <hr/>
 <div align=center>
-
+<h2>📜 My Stats 📜</h2>
 <a href="https://git.io/streak-stats"><img width=400 src="https://streak-stats.demolab.com?user=HyPerMax5&theme=highcontrast" alt="GitHub Streak" /></a>
-<img width=400 src="https://github-readme-stats.vercel.app/api?username=HyPerMax5&show_icons=true&theme=transparent"/>
-<img width= 325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyPerMax5&langs_count=8&layout=donut&theme=react&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=380 src="https://github-readme-stats.vercel.app/api?username=HyPerMax5&show_icons=true&theme=highcontrast"/>
+<img width= 280 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyPerMax5&langs_count=8&layout=donut&theme=highcontrast&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/><br/>
 
